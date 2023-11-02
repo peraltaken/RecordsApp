@@ -1,5 +1,7 @@
 # Students-Profile
 
+This demonstrates how to use classes in PHP CRUD.
+
 ## Model
 
 province -> id (PK, AI), name  

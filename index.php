@@ -24,7 +24,7 @@ $student = new Student($db);
 <div class="content">
 </div>
 
-        <!-- Include the header -->
+        <!-- Include the footer -->
     <?php include('templates/footer.html'); ?>
 </body>
 </html>
